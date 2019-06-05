@@ -1,8 +1,10 @@
 var = animal "dog"
 
 function myAnimal() {
-  
-  return animal;
+
+  return animal
+
+}
 
 
 function yourAnimal() {
@@ -11,7 +13,7 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
-}
+
 
 var n = 0
 
